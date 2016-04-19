@@ -1,0 +1,4 @@
+
+  class Detective < Book
+
+  end

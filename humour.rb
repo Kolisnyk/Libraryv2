@@ -1,0 +1,4 @@
+
+  class Humour < Book
+
+  end
